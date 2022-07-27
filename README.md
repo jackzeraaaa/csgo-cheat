@@ -1,12 +1,5 @@
 ﻿# 🛰 About
-This is a skeleton internal cheat base meant to be used for my [internal YouTube tutorials](https://www.youtube.com/watch?v=vF5fzIDUJVw&list=PLfXYbj_AHLD7I5NxCFHM2gYFihnDD0e5O). This was made to avoid me having to recode all the boiler-plate nonsense each video.
-
-## 🌌 Videos
-`To Come:`
-- [Chams / Colored Models](https://www.youtube.com/watch?v=xXhVCUieL08)
-- Glow (Weapon, Player, Grenade, Bomb)
-- ESP (Name, Box, Skeleton)
-- And so on...
+- Base for CSGO Cheat with a rich SDK. Simple GUI using ImGui. Credits goes to youtuber cazz for memory library and interface/netvar manager.
 
 ## ☂️ Features
 - Intuitive project structure
